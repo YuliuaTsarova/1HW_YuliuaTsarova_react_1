@@ -1,0 +1,13 @@
+.search {
+    width: 555px;
+    height: 52px;
+    border-radius: 10px;
+    background-color: #504B4A;
+
+    color: #CFCFCF;
+    /* font-family: 'Gilroy';
+    font-style: normal; */
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20.88px;
+}

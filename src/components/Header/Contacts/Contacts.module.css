@@ -1,0 +1,45 @@
+.contacts {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.round {
+    width: 32px;
+    height: 32px;
+    border: 1px solid #618967;
+    border-radius: 50%;
+    background-color: #72A479;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact__image {
+    width: 12.67px;
+    height: 12.67px;
+}
+
+.contact__info {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact__text {
+    /* font-family: 'Gilroy';
+    font-style: normal; */
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    color: #CFCFCF;
+}
+
+.contact__namber {
+    /* font-family: 'Gilroy';
+    font-style: normal; */
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}

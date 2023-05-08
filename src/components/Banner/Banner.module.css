@@ -1,0 +1,57 @@
+.banner {
+    background-image: url(../../assets/images/bannerbackground.png);
+    height: 484px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.banner__textWrapper {
+    width: 613px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 94.79px;
+
+}
+
+.banner__text {
+    width: 613px;
+    height: 146px;
+    /* font-family: 'Zing Rust Demo';
+    font-style: italic; */
+    font-weight: 400;
+    font-size: 47px;
+    line-height: 109.2%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    transform: rotate(-8.37deg);
+
+
+}
+
+.banner__subText {
+    width: 229.31px;
+    height: 35.85px;
+    background: linear-gradient(114.93deg, #618967 5.11%, #72A479 94%);
+    transform: rotate(-8.02deg) skew(-8.02deg, 0deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* font-family: 'Zing Rust Demo';
+    font-style: italic; */
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 109.2%;
+    /* or 27px */
+
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+}

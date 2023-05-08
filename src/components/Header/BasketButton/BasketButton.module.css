@@ -1,0 +1,36 @@
+.basket {
+    background: linear-gradient(114.93deg, #618967 5.11%, #72A479 94%);
+    border-radius: 10px;
+    width: 149px;
+    height: 52px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+
+}
+
+.basket__text {
+    color: #FFFFFF;
+    /* font-family: 'Gilroy';
+    font-style: normal; */
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.vl {
+    border-left: 1px solid rgba(255, 255, 255, 0.3);
+    height: 38px;
+}
+
+.round1 {
+    width: 24px;
+    height: 24px;
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
